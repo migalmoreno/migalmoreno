@@ -1,5 +1,5 @@
 <a href="https://github.com/migalmoreno">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=migalmoreno&show_icons=true&theme=transparent&count_private=true&hide_border=true" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=migalmoreno&show_icons=true&theme=transparent&count_private=true&hide_border=true&hide_rank=true" />
 </a>
 <a href="https://github.com/migalmoreno">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=migalmoreno&layout=compact&show_icons=true&theme=transparent&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true" />
